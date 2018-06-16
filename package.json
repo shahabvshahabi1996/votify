@@ -1,0 +1,24 @@
+{
+  "name": "votify",
+  "version": "1.0.0",
+  "description": "This is a real time application for making voting forms for each user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahabvshahabi1996/votify.git"
+  },
+  "keywords": [
+    "vote",
+    "react",
+    "nodejs"
+  ],
+  "author": "Alireza Shahabi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shahabvshahabi1996/votify/issues"
+  },
+  "homepage": "https://github.com/shahabvshahabi1996/votify#readme"
+}
